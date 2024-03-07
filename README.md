@@ -4,7 +4,7 @@ Esta é uma API RESTful desenvolvida em Spring Boot para gerenciar uma agenda e 
 # Endpoints
 
 ## Autenticação
-POST /api/auth/login: Realiza o login do usuário com email e senha.
+POST /api/auth/login: Realiza o login do usuário com email e senha. <br>
 POST /api/auth/logout: Realiza o logout do usuário.
 
 ## Agenda
