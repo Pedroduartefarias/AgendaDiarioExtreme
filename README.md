@@ -1,4 +1,4 @@
-##Agenda e Diário API
+## Agenda e Diário API
 Esta é uma API RESTful desenvolvida em Spring Boot para gerenciar uma agenda e um diário pessoal. Os usuários podem fazer login com seu email e senha, criar, visualizar, editar e excluir eventos na agenda, bem como entradas no diário.
 
 #Tecnologias Utilizadas
