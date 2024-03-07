@@ -1,20 +1,7 @@
 # Agenda e Diário API
 Esta é uma API RESTful desenvolvida em Spring Boot para gerenciar uma agenda e um diário pessoal. Os usuários podem fazer login com seu email e senha, criar, visualizar, editar e excluir eventos na agenda, bem como entradas no diário.
 
-## Tecnologias Utilizadas
-Java 8
-Spring Boot
-Spring Security
-Spring Data JPA
-MySQL (ou outro banco de dados de sua escolha)
-Maven (ou Gradle)
-
-## Pré-requisitos
-JDK 8 ou superior instalado
-MySQL (ou outro banco de dados) instalado e em execução
-Maven ou Gradle instalado (dependendo do gerenciador de dependências escolhido)
-
-## Endpoints
+# Endpoints
 
 ## Autenticação
 POST /api/auth/login: Realiza o login do usuário com email e senha.
